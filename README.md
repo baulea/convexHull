@@ -1,5 +1,12 @@
 # convexHull
-create the convex hull from a set of 2 dimensional points
+create the [convex hull](https://en.wikipedia.org/wiki/Convex_hull) from a set of 2 dimensional points
+
+## Features
+
+Implementation of two [convex hull algorithms](https://en.wikipedia.org/wiki/Convex_hull_algorithms):
+* [Jarvis march / gift wrapping](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm)
+* [Graham scan](https://en.wikipedia.org/wiki/Graham_scan)
+ 
 
 ## Getting Started
 

@@ -1,4 +1,4 @@
-package de.baule.convexHull;
+package de.baule.maven.convexHull;
 
 import static org.junit.Assert.assertEquals;
 
@@ -8,6 +8,8 @@ import java.util.Set;
 import javax.vecmath.Point2d;
 
 import org.junit.Test;
+
+import de.baule.maven.convexHull.Util;
 
 public class UtilTest {
 

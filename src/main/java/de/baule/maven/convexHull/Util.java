@@ -1,4 +1,4 @@
-package de.baule.convexHull;
+package de.baule.maven.convexHull;
 
 import java.util.Set;
 
