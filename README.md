@@ -23,9 +23,9 @@ Add this dependency to your project Maven config:
 
 ```
 <dependency>
-    <groupId>de.baule</groupId>
+    <groupId>de.baule.maven</groupId>
     <artifactId>convexHull</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
 </dependency>
 ```
 
